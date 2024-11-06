@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    
+}
+
+
+.layer{
+    background-color: rgb(39, 162, 141) ;
+    height: 550px;
+}
+.head{
+    background-color: rgb(0, 0, 0);
+    height: 28px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-top: 5px;
+    
+}
+select{
+    text-decoration: none;
+
+}
+.fa-brands {
+    color: rgb(255, 255, 255);
+    margin-top: 12.5px;
+    margin-left: 60px;
+    font-size: 50px;
+}
+.header{
+    background-color: rgb(255, 255, 255);
+    height: 90px;
+}
+
+.imgg{
+    width: 90px;
+    height: 90px;
+    margin-left: 135px;
+}
+.link{
+    margin-left: 450px;
+    margin-top: -60px;
+    
+}
+a{
+    text-decoration: none;
+    padding-left: 60px;
+    color: rgb(68, 68, 68);
+}
+.link  a:hover{
+    color: rgb(39, 162, 141) ;
+}
+.container{
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 427px;
+    background-image: url(top-view-concrete-surface.jpg) ;
+    background-size: cover;
+    opacity: 0.2px;
+}
+.slide{
+    
+    height: 427px;
+    background-color: rgba(61, 60, 60, 0.5);
+
+}
+.add{
+    font-family:DecoType Thuluth;
+    /* font-size: 21px; */
+    background-color: rgba(240, 248, 255,0);
+    position: absolute;
+    border: solid snow 2px;
+    top: 40%;
+    left: 48%;
+    text-align: center;
+    transform: translate(-50% , -50%);
+    padding: 0px 200px 0px 200px;
+}
+.caption{
+    font-family:DecoType Thuluth;
+    /* font-size: 25px; */
+    position: absolute;
+    top: 59%;
+    left: 48%;
+    text-align: center;
+    transform: translate(-50% , -50%);
+    padding: 4px 200px 4px 200px;
+}
+
